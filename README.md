@@ -21,11 +21,10 @@ This project aims to:
 
 ## Key Questions
 1. To what extent does coffee (caffeine) consumption relate to cardiovascular-related indicators such as heart rate, BMI, sleep, and stress_Score/ levels in the lifestyle dataset?
-<img width="3392" height="88" alt="image" src="https://github.com/user-attachments/assets/7dc07de5-d60e-4fbb-8095-0fcf320b4401" />
+   
+2. How do age groups differ in heart disease risk, and how do these risks patterns compare with age-specific coffee consumption patterns?
 
-2. How do age groups differ in heart disease risk, and how do these risks patterns compare with age-specific coffee consumption patterns?”<img width="2668" height="88" alt="image" src="https://github.com/user-attachments/assets/e5c96a77-01f9-47bc-9c12-a3bd6e5db263" />
-
-3.Can we build a predictive model that helps practitioners identify patients at higher risk of heart failure?<img width="2409" height="105" alt="image" src="https://github.com/user-attachments/assets/0325f931-9ff1-493e-9df0-636cff0f8960" />
+3.Can we build a predictive model that helps practitioners identify patients at higher risk of heart failure
 
 
 ---
@@ -63,5 +62,5 @@ This project aims to:
 
 ---
 
-## Repository Structure
+
 
