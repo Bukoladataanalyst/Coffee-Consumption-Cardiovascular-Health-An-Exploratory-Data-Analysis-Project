@@ -1,0 +1,58 @@
+# Project Notes
+
+## Business Questions
+1. To what extent does coffee consumption relate to cardiovascular indicators such as heart rate, BMI, sleep quality, and stress?
+2. How do cardiovascular risk patterns vary by age group?
+3. Can predictive modeling help identify individuals at higher risk of heart disease?
+
+---
+
+## Key Findings
+
+### Heart Rate
+- No clinically meaningful change in resting heart rate was observed as caffeine intake increased.
+- The correlation between caffeine and heart rate was very weak, indicating minimal relationship.
+
+### BMI
+- No relationship was identified between caffeine intake and BMI.
+- Weight patterns appear to be driven by broader lifestyle and metabolic factors rather than caffeine.
+
+### Sleep Quality
+- Sleep quality showed the strongest negative relationship with caffeine intake.
+- Higher caffeine consumption was associated with reduced sleep duration and poorer sleep quality.
+
+### Stress
+- High-stress individuals consumed more caffeine on average.
+- Findings suggest a possible cycle: stress → increased caffeine intake → poorer sleep.
+
+### Age & Cardiovascular Risk
+- Cardiovascular risk increased consistently with age.
+- Coffee consumption declined among older adults, indicating no positive association between caffeine intake and heart disease risk.
+
+### Predictive Modeling
+- Logistic Regression achieved approximately 90% accuracy.
+- The model was interpretable and suitable for healthcare decision support.
+- KNN showed lower performance compared to Logistic Regression.
+
+---
+
+## Assumptions
+- Coffee intake reflects overall caffeine consumption behavior.
+- Self-reported lifestyle variables are reasonably accurate.
+- The dataset reflects realistic population health trends.
+- Observed relationships represent associations, not causation.
+
+---
+
+## Limitations
+- Synthetic dataset limits generalizability to real-world populations.
+- Other caffeine sources (tea, energy drinks) were not included.
+- Cross-sectional data restricts causal inference.
+- Medical history and medication use were unavailable.
+
+---
+
+## Clinical Relevance
+- Supports patient education around moderate caffeine consumption.
+- Identifies sleep-sensitive individuals who may benefit from caffeine reduction.
+- Demonstrates the role of analytics in preventive healthcare strategies.
